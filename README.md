@@ -26,6 +26,13 @@ To run this project locally, follow these steps:
 4. The generated password will be displayed in the textarea below along with its strength indication.
 5. If the password length is less than 8 characters, it will be considered weak, and the background color will change to indicate this.
 
+## Project Demo video
+
+
+
+https://github.com/CharudattaGhute/Password-Generator/assets/122104600/200f8f2c-0d5c-44ee-9a33-e0c449a0ddd6
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
