@@ -1,0 +1,59 @@
+body {
+    background-color: azure;
+    
+    
+}
+.container h1{
+    text-align: center;
+    font-family: fantasy;
+    color: darkred;
+    font-size:60px
+    
+}
+ form{
+    border: 2px solid black;
+    background: fixed;
+ }
+
+.form-group{
+    width: 30%;
+    margin: 0 auto;
+    
+}
+textarea{
+    width: 100%;
+    color: brown;
+}
+button{
+    margin-top: 10%;
+     margin-left: 25%;
+     margin-bottom:30px; 
+     border-radius: 30px; 
+     background-color: brown; 
+     color: white;
+}
+a{
+    margin-left: 25%;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+button:hover{
+    transform:scale(1);
+    transition:1s;
+    box-shadow: 10px 10px 10px 10px rgb(141, 141, 148);
+}
+textarea:hover{
+    transform:scale(1.1);
+    transition:2s;
+    box-shadow: 10px 10px 10px 10px rgb(100, 100, 105);
+
+}
+.form-group input:hover{
+    transform:scale(1);
+    transition:2s;
+    box-shadow: 10px 10px 10px 10px rgb(141, 141, 148);
+
+}
+ 
+
