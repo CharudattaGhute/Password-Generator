@@ -10,9 +10,9 @@ A simple web application to generate passwords with customizable criteria such a
 
 ## Installation
 
-To run this project locally, follow these steps:
+To run this project locally, follow these steps:-
 
-1. Clone the repository:
+1. Clone the repository:-
     ```bash
     git clone https://github.com/CharudattaGhute/Password-Generator.git
     ```
