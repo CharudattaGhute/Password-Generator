@@ -4,9 +4,9 @@ A simple web application to generate passwords with customizable criteria such a
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript 
+- HTML.
+- CSS.
+- JavaScript. 
 
 ## Installation
 
