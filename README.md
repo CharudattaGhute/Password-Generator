@@ -1,6 +1,6 @@
 ## Password-Generator
 
-A simple web application to generate passwords with customizable criteria such as length, inclusion of uppercase letters, lowercase letters, numbers, and special characters. The application provides feedback on password strength, indicating whether the generated password is weak or strong based on its length and change the color related to strength
+A simple web application to generate passwords with customizable criteria such as length, inclusion of uppercase letters, lowercase letters, numbers, and special characters. The application provides feedback on password strength, indicating whether the generated password is weak or strong based on its length and change the color related to strength.
 
 ## Technologies Used
 
